@@ -3,7 +3,7 @@ set the file code style at the file created by visual studio
 
 
 ### test visual studio version
-Visual Studio 2017
+Visual Studio Community 2017 (15.5.2)
 
 
 ### useage
