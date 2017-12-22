@@ -24,5 +24,7 @@ Save all text files without BOM in UTF8 encoding, no BOM will be added.
 ```
 https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.FixFileEncoding
 
-When you edit a UTF-8 file in Visual Studio, it adds the byte order mark (BOM) sequence to the beginning of the file. You can select an encoding manually, but you need to do it each time you reopen the file.
+When you edit a UTF-8 file in Visual Studio, it adds the byte order mark (BOM) sequence 
+to the beginning of the file. You can select an encoding manually, 
+but you need to do it each time you reopen the file.
 ```
