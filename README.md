@@ -16,12 +16,13 @@ and every file's code style created by Visual Studio will be same with the docum
 
 also try the Visual Studio's externsions, but failed.
 
+```
 https://marketplace.visualstudio.com/items?itemName=vilicvane.ForceUTF8
-
 Save all text files without BOM in UTF8 encoding, no BOM will be added.
+```
 
-
+```
 https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.FixFileEncoding
 
 When you edit a UTF-8 file in Visual Studio, it adds the byte order mark (BOM) sequence to the beginning of the file. You can select an encoding manually, but you need to do it each time you reopen the file.
-
+```
