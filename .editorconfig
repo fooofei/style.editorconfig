@@ -1,7 +1,11 @@
 root=true
 
+[*]
+charset=utf-8
+end_of_line=lf
+
 #C++
-[*.{c,cpp,h}]
+[*.{c,cpp,h,txt,ini}]
 charset=utf-8
 end_of_line=lf
 insert_final_newline=true # for old CentOS compile

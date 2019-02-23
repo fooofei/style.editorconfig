@@ -1,12 +1,16 @@
 # visual_studio_code_style
-set the file code style which created by visual studio
+
+Set the file code style which created by visual studio.
+
+Others Editor also can use this.
 
 
-### test visual studio version
+### Support Visual Studio version
+
 Visual Studio Community 2017 (15.5.2)
 
 
-### useage
+### Usage
 
 put the file `.editorconfig` in the c/c++ code project top folder. THAT'S ALL. 
 
